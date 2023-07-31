@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yeji's%20space&fontSize=90)
-
-### Hi👋
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=Yeji's%20space&fontSize=90)
