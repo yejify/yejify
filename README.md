@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yeji's%20space&fontSize=90)
 
 ### Hi👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejify&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejify&show_icons=true&bg_color=00000000&theme=radical)
 <!--
 **yejify/yejify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
